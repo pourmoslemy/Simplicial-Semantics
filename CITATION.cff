@@ -1,0 +1,12 @@
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this manuscript or its mathematical formulations, please cite it as below."
+authors:
+  - family-names: Pourmoslemi
+    given-names: Alireza
+title: "Simplicial Semantics for Intuitionistic Logic: A No-Go Theorem and Geometric Intermediate Logics"
+version: v1.0.2
+doi: 10.5281/zenodo.23364083
+date-released: 2026-10-14
+url: "https://github.com/pourmoslemy/Simplicial-Semantics"

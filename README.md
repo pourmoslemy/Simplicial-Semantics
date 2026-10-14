@@ -2,17 +2,19 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Preprint](https://img.shields.io/badge/Status-Under%20Review%20%40%20APAL-orange)](https://www.sciencedirect.com/journal/annals-of-pure-and-applied-logic)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23364083.svg)](https://doi.org/10.5281/zenodo.23364083)
+[![Release](https://img.shields.io/badge/Release-v1.0.2-green.svg)](https://github.com/pourmoslemy/Simplicial-Semantics/releases/tag/v1.0.2)
 
 ---
 
 ## 📌 Overview
 
-This repository contains the author's original manuscript (preprint) and supplementary formal derivations for:
+This repository contains the author's original manuscript (preprint), topological definitions, and supplementary derivations for:
 
 > **Simplicial Semantics for Intuitionistic Logic: A No-Go Theorem and Geometric Intermediate Logics**  
 > **Author:** Alireza Pourmoslemi  
-> **Current Status:** Submitted and under peer review at *Annals of Pure and Applied Logic (APAL)*.
+> **Current Status:** Submitted and under peer review at *Annals of Pure and Applied Logic (APAL)*.  
+> **Archival DOI:** [10.5281/zenodo.23364083](https://doi.org/10.5281/zenodo.23364083)
 
 This work establishes the geometric and topological foundations of **Simplicial Intuitionistic Logic (SC-Logic)**, bridging categorical logic, combinatorial algebraic topology, and Heyting algebras.
 
@@ -34,11 +36,11 @@ This work establishes the geometric and topological foundations of **Simplicial 
 
 ---
 
-## 📄 Manuscript & Files
+## 📄 Repository Structure & Files
 
-* **`paper.pdf`** : Full preprint manuscript formatted with Elsevier's standard layout.
-* **`manuscript/`** : LaTeX source files, proofs, and commutative diagrams.
-* **`LICENSE`** : MIT License for computational and formal scripts; text is copyright of the author.
+* **`paper.pdf`** : Full preprint manuscript.
+* **`CITATION.cff`** : Machine-readable citation metadata.
+* **`LICENSE`** : MIT License for scripts and code; manuscript text is copyright of the author.
 
 ---
 
@@ -53,7 +55,7 @@ If you reference this work or build upon its theoretical machinery, please cite 
   title     = {Simplicial Semantics for Intuitionistic Logic: A No-Go Theorem and Geometric Intermediate Logics},
   journal   = {Annals of Pure and Applied Logic},
   year      = {2026},
-  note      = {Under review. Preprint available via Zenodo/GitHub},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  note      = {Under review. Preprint archived on Zenodo},
+  doi       = {10.5281/zenodo.23364083},
+  url       = {https://doi.org/10.5281/zenodo.23364083}
 }
